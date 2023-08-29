@@ -1,1 +1,1 @@
-print(" Skoven kræver sin virkelighed \n i mennesket (dets mumlen) \n det er dets friheds filosof \n en neksus har en ligevægt." )
+print(" i mennesket (dets mumlen) \n Skoven kræver sin virkelighed \n det er dets friheds filosof \n en neksus har en ligevægt." )
